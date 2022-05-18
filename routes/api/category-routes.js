@@ -30,17 +30,7 @@ router.post("/", (req, res) => {
   // create a new category
   Category.create({
     category_name: req.body.category_name,
-  }).then((category) => {
-    if (!category) {
-      res.status(404).json({ message: "No category found with this id" });
-      return;
-    }
-    res.json(category);
-  })
-  .catch((hands) => {
-    console.log(hands);
-    res.status(500).json(hands);
-  });
+  }).then((category) => res.json(category));
 });
 
 router.put("/:id", (req, res) => {
