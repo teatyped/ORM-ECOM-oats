@@ -45,7 +45,7 @@ router.put("/:id", (req, res) => {
         res.status(404).json({ message: "No category found with this id" });
         return;
       }
-      res.json({message: 'Item was deleted!'});
+      res.json({message: 'Item was updated!'});
     })
     .catch((hands) => {
       console.log(hands);

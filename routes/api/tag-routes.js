@@ -49,7 +49,7 @@ router.put("/:id", (req, res) => {
       id: req.params.id,
     },
   })
-    .then((tag) => res.json(tag))
+    .then((tag) => res.json({message: 'This Product was updated!'}))
     .catch((err) => {
       console.log(err);
       res.status(500).json(err);
