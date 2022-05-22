@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End code
 
 ## Description 
 Create a back end for an e-commerce site. A starter code was given to complete the back end. This was built using Express.js, Sequelize, and MySQL database.
@@ -44,3 +44,4 @@ https://user-images.githubusercontent.com/96491122/169712882-942a0050-bda2-48ba-
 - run: "npm start"
 
 ## Github
+- https://github.com/teatyped/ORM-ECOM-oats
