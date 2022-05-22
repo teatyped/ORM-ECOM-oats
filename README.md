@@ -5,7 +5,13 @@ Create a back end for an e-commerce site. A starter code was given to complete t
 
 
 ## Video
+### Category routes
 
+
+### Product routes
+
+
+### Tag routes
 
 
 
