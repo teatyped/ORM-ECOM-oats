@@ -8,10 +8,22 @@ Create a back end for an e-commerce site. A starter code was given to complete t
 ### Category routes
 
 
+https://user-images.githubusercontent.com/96491122/169712871-418ea698-0a99-4f92-ba64-6b4038841680.mp4
+
+
+
 ### Product routes
 
 
+
+https://user-images.githubusercontent.com/96491122/169712879-a6f7eb3a-8e8b-4518-b9cc-b1de1d65ddf7.mp4
+
+
 ### Tag routes
+
+
+
+https://user-images.githubusercontent.com/96491122/169712882-942a0050-bda2-48ba-b3da-b96784314ae9.mp4
 
 
 
