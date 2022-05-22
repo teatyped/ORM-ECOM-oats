@@ -3,6 +3,12 @@
 ## Description 
 Create a back end for an e-commerce site. A starter code was given to complete the back end. This was built using Express.js, Sequelize, and MySQL database.
 
+
+## Video
+
+
+
+
 ## Install steps
 -   run "npm install"
 -   make a .env file in root folder with this example
